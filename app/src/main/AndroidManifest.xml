@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.teachtown.justshoppingmall">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_just4"
+        android:label="@string/app_name"
+        android:noHistory="true"
+        android:roundIcon="@mipmap/ic_launcher_just4_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".pay"
+            android:label="결제"></activity>
+        <activity android:name=".top" />
+        <activity
+            android:name=".coupon"
+            android:label="쿠폰" />
+        <activity
+            android:name=".review"
+            android:label="리뷰" />
+        <activity
+            android:name=".order"
+            android:label="주문 · 배송" />
+        <activity
+            android:name=".c1"
+            android:label="마가렛트 에디션" />
+        <activity
+            android:name=".b8"
+            android:label="트위드 패딩 재킷" />
+        <activity
+            android:name=".b7"
+            android:label="GG 사이키델릭 프린트 나일론 재킷" />
+        <activity
+            android:name=".b6"
+            android:label="Gucci Orgasmique 파유 오버사이즈 베스트" />
+        <activity
+            android:name=".b5"
+            android:label="구찌 라벨이 달린 코튼 재킷" />
+        <activity
+            android:name=".b4"
+            android:label="하와이안 프린트 실크 크롭 재킷" />
+        <activity
+            android:name=".b3"
+            android:label="울 실크 크롭 재킷" />
+        <activity
+            android:name=".b2"
+            android:label="키튼 디테일의 캐시미어 실크 스웨터" />
+        <activity
+            android:name=".b1"
+            android:label="콜리플라워 디테일의 스트라이프 코튼 린넨 셔츠" />
+        <activity
+            android:name=".a8"
+            android:label="&apos;러브&apos; 프린트 오버사이즈 티셔츠" />
+        <activity
+            android:name=".a7"
+            android:label="GG 애플 프린트 티셔츠" />
+        <activity
+            android:name=".a6"
+            android:label="실크 비스코스 파유 맥시 셔츠" />
+        <activity
+            android:name=".a5"
+            android:label="&apos;Gucci Hawaii&apos; 크롭 스웨트셔츠" />
+        <activity
+            android:name=".a4"
+            android:label="울 트위드 재킷" />
+        <activity
+            android:name=".a3"
+            android:label="구찌 &apos;Beverly Hills&apos; 체리 프린트 스웨트 셔츠" />
+        <activity
+            android:name=".a2"
+            android:label="플로라 프린트 코튼 숏 카프탄 드레스" />
+        <activity
+            android:name=".a1"
+            android:label="오버사이즈 구찌 로고 워시드 티셔츠" />
+        <activity
+            android:name=".register"
+            android:label="회원가입" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".info"
+            android:label="마이페이지" />
+        <activity
+            android:name=".object"
+            android:label="현재 이 페이지는 사용하실 수 없습니다." />
+        <activity
+            android:name=".Menu"
+            android:label="상품보기" />
+        <activity
+            android:name=".MainActivity"
+            android:label="JUST 쇼핑몰">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
