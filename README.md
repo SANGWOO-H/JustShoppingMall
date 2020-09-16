@@ -8,7 +8,7 @@
 ![main2](https://user-images.githubusercontent.com/71234090/93302223-9630f480-f834-11ea-9085-74c656649b9b.png)
 
 ## 메인 화면(신상)
-![main3](https://user-images.githubusercontent.com/71234090/93100873-9ae69300-f6e4-11ea-8f60-281dbdfca065.png)
+![main3](https://user-images.githubusercontent.com/71234090/93303248-26bc0480-f836-11ea-8065-05405a51a7a5.png)
 
 ## 메뉴 화면
 ![menu](https://user-images.githubusercontent.com/71234090/93100879-9cb05680-f6e4-11ea-8ee9-b2939f9064d4.png)
