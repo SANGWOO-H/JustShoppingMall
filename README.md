@@ -2,10 +2,10 @@
 안드로이드 스튜디오를 이용하여 쇼핑몰 앱을 만들었습니다.
 
 ## 메인 화면(추천)
-![main1](https://user-images.githubusercontent.com/71234090/93100848-9621df00-f6e4-11ea-8415-90fa74561c98.png)
+![main](https://user-images.githubusercontent.com/71234090/93302216-94673100-f834-11ea-968f-30d6f064152d.png)
 
 ## 메인 화면(베스트)
-![main2](https://user-images.githubusercontent.com/71234090/93100858-991ccf80-f6e4-11ea-90b8-8cd16ff579ab.png)
+![main2](https://user-images.githubusercontent.com/71234090/93302223-9630f480-f834-11ea-9085-74c656649b9b.png)
 
 ## 메인 화면(신상)
 ![main3](https://user-images.githubusercontent.com/71234090/93100873-9ae69300-f6e4-11ea-8f60-281dbdfca065.png)
@@ -14,19 +14,19 @@
 ![menu](https://user-images.githubusercontent.com/71234090/93100879-9cb05680-f6e4-11ea-8ee9-b2939f9064d4.png)
 
 ## 메뉴(상의) 클릭시 화면
-![menu-click](https://user-images.githubusercontent.com/71234090/93100885-9de18380-f6e4-11ea-8c67-86f6ea6e993f.png)
+![menu-click](https://user-images.githubusercontent.com/71234090/93302194-8c0ef600-f834-11ea-95b8-74da871b3180.png)
 
 ## 상품 정보 화면
-![buy](https://user-images.githubusercontent.com/71234090/93100888-9f12b080-f6e4-11ea-9927-651f0979c41c.png)
+![buy](https://user-images.githubusercontent.com/71234090/93302214-93360400-f834-11ea-8ae8-0e181b5e6c0e.png)
 
 ## 구매 화면
 ![choose](https://user-images.githubusercontent.com/71234090/93100916-a76aeb80-f6e4-11ea-894a-468f1803bd68.png)
 
 ## 구매 O 화면
-![yes](https://user-images.githubusercontent.com/71234090/93100890-9fab4700-f6e4-11ea-84f8-1e9cca8024a3.png)
+![yes](https://user-images.githubusercontent.com/71234090/93302207-916c4080-f834-11ea-8392-590ce1038a1c.png)
 
 ## 구매 X 화면
-![no](https://user-images.githubusercontent.com/71234090/93100900-a20da100-f6e4-11ea-9b6a-ef46934add70.png)
+![no](https://user-images.githubusercontent.com/71234090/93302197-8dd8b980-f834-11ea-9a37-2f72687f2cc8.png)
 
 ## 정보 화면
 ![Info](https://user-images.githubusercontent.com/71234090/93100883-9d48ed00-f6e4-11ea-924d-13b23e5060fb.png)
@@ -41,7 +41,7 @@
 ![order](https://user-images.githubusercontent.com/71234090/93100906-a46ffb00-f6e4-11ea-87a6-087b03bd668c.png)
 
 ## 리뷰(이벤트) 화면
-![review](https://user-images.githubusercontent.com/71234090/93100908-a5089180-f6e4-11ea-8bca-7ea57b487ee2.png)
+![review](https://user-images.githubusercontent.com/71234090/93302201-8fa27d00-f834-11ea-952c-01a8bcc27730.png)
 
 ## 쿠폰 다운로드 화면
 ![coupon](https://user-images.githubusercontent.com/71234090/93100914-a6d25500-f6e4-11ea-90ab-929808cc946b.png)
